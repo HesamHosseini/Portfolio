@@ -147,7 +147,7 @@ export const LandingPage: React.FC<LandingPageProps> = (
             <HStack pb={4}>
               <Button colorScheme="cyan" variant="outline" width={"100%"}>
                 <Link
-                  href="https://docs.google.com/document/d/1sr5FYRHktZ0kVhx8h6r37mfHFDy9NPaQ0f2oFmJbAGE/export?tab=t.0?format=pdf"
+                  href="https://docs.google.com/document/d/1sr5FYRHktZ0kVhx8h6r37mfHFDy9NPaQ0f2oFmJbAGE/export?tab=t.0&format=pdf"
                   onClick={onClose}
                   width={"100%"}
                   isExternal
